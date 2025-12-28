@@ -11,7 +11,7 @@
       "images": 0.8999999761581421,
       "pads": 1.0,
       "shapes": 1.0,
-      "tracks": 0.9800000190734863,
+      "tracks": 1.0,
       "vias": 0.9800000190734863,
       "zones": 1.0
     },
@@ -30,14 +30,11 @@
     },
     "visible_items": [
       "vias",
-      "footprint_text",
       "footprint_anchors",
       "ratsnest",
       "grid",
       "footprints_front",
       "footprints_back",
-      "footprint_values",
-      "footprint_references",
       "tracks",
       "drc_errors",
       "drawing_sheet",
